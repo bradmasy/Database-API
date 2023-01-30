@@ -1,0 +1,3 @@
+C:/Users/bradl/Desktop/BCIT WINTER-SPRING 2023/Projects-Practicum-3800/Database-API/API/cmake-build-debug/CMakeFiles/API.dir
+C:/Users/bradl/Desktop/BCIT WINTER-SPRING 2023/Projects-Practicum-3800/Database-API/API/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bradl/Desktop/BCIT WINTER-SPRING 2023/Projects-Practicum-3800/Database-API/API/cmake-build-debug/CMakeFiles/rebuild_cache.dir
